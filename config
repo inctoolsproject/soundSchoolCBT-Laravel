@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/servercode22/schoolcustoms.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "vouchercode"]
+	remote = origin
+	merge = refs/heads/vouchercode
+[branch "accountscode"]
+	remote = origin
+	merge = refs/heads/accountscode

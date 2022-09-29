@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a6aec91f279a975cc0df59e15d969475769357b1 server code <servercode22@gmail.com> 1659656539 -0700	commit (initial): fresh code
+a6aec91f279a975cc0df59e15d969475769357b1 497096c98aa6e36ee7869b8c8f6065455a6f0f38 server code <servercode22@gmail.com> 1659657369 -0700	commit: fresh code
+497096c98aa6e36ee7869b8c8f6065455a6f0f38 497096c98aa6e36ee7869b8c8f6065455a6f0f38 server code <servercode22@gmail.com> 1659658105 -0700	checkout: moving from main to vouchercode
+497096c98aa6e36ee7869b8c8f6065455a6f0f38 e04f81f649ff909090f0613cfb9b0502bfbf8534 server code <servercode22@gmail.com> 1659658172 -0700	commit: voucher code
+e04f81f649ff909090f0613cfb9b0502bfbf8534 e04f81f649ff909090f0613cfb9b0502bfbf8534 server code <servercode22@gmail.com> 1659659205 -0700	checkout: moving from vouchercode to accountscode
+e04f81f649ff909090f0613cfb9b0502bfbf8534 4d3e394e363a40a2e25ac51225ee50a4e09b20ad server code <servercode22@gmail.com> 1659659259 -0700	commit: accounts code
+4d3e394e363a40a2e25ac51225ee50a4e09b20ad 0a6a9db359071db08d62efd0ec54e867036f085c server code <servercode22@gmail.com> 1659665171 -0700	commit: deduction work
+0a6a9db359071db08d62efd0ec54e867036f085c d8d84ab018937a54f469eaa8b2eafa31fcdb790a server code <servercode22@gmail.com> 1660848341 +0500	commit: loan payroll
